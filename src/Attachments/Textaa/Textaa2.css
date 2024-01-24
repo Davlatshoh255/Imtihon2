@@ -1,0 +1,24 @@
+.TextC2 {
+    width: 100%;
+    gap: 3rem;
+    color: gray;
+}
+
+.TextC2 ul {
+    display: flex;
+    gap: 3rem;
+}
+
+.TextC2 .line{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    margin-top: 25px;
+}
+
+.TextC2 h3:hover{
+    transition-duration: 0.4s;
+}
+.TextC2 h3:hover{
+    color: #0d6efd;
+}
